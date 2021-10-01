@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class KontaktPage extends Base {
 
-    public KontaktPage() {
+    public KontaktPage()  {
 
         PageFactory.initElements(driver,this);
     }
